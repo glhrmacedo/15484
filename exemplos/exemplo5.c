@@ -4,6 +4,6 @@ int main()
 {
     int a, b;
     scanf("%d %d", &a, &b);
-    printf("%d\n", (a % 2) != (b % 2));
+    printf("Os números %d e %d possuem paridades distintas? %d\n", a, b, (a + b) % 2 != 0);
     return 0;
 }
