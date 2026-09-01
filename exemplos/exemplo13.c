@@ -10,19 +10,19 @@ int main()
 
     if (!(a + b > c && a + c > b && b + c > a))
     {
-        printf("Os comprimentos escritos não formam um triângulo.\n");
+        printf("Esses comprimentos não formam um triângulo.\n");
     }
     else if (a == b && b == c)
     {
-        printf("O triângulo é equilátero.\n");
+        printf("Esses comprimentos formam um triângulo equilátero.\n");
     }
     else if (a == b || b == c || a == c)
     {
-        printf("O triângulo é isósceles.\n");
+        printf("Esses comprimentos formam um triângulo isósceles.\n");
     }
     else
     {
-        printf("O triângulo é escaleno.\n");
+        printf("Esses comprimentos formam um triângulo escaleno.\n");
     }
 
     return EXIT_SUCCESS;
