@@ -1,0 +1,1 @@
+Escreva um programa que, dado um inteiro positivo $w$, determine se $w$ pode ser escrito como a soma de duas parcelas pares e positivas, não necessariamente iguais.
