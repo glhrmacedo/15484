@@ -1,0 +1,1 @@
+Escreva um programa que, dados quatro números inteiros representando as cores de quatro ferraduras, determine o número mínimo de ferraduras que precisam ser substituídas para que todas tenham cores distintas. Por exemplo, para as cores $1$, $7$, $3$ e $3$ basta substituir $1$ ferradura.
