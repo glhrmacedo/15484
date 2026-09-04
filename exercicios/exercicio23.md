@@ -1,0 +1,1 @@
+Escreva um programa que, dado um inteiro positivo $x$, determine o menor número de parcelas em que $x$ pode ser decomposto, sabendo que cada parcela deve valer $1$, $2$, $3$, $4$ ou $5$.
