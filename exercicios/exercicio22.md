@@ -1,0 +1,1 @@
+Escreva um programa que, dados três inteiros positivos $k$, $n$ e $w$, considere os $w$ valores $k, 2k, 3k, \dotsc, w \times k$ e determine quanto falta a $n$ para atingir a soma desses valores, respondendo $0$ caso $n$ já seja maior ou igual a essa soma.
