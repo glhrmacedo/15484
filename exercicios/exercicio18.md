@@ -1,0 +1,1 @@
+Escreva um programa que, dados três inteiros positivos $a$, $b$ e $c$, determine o maior valor que pode ser obtido colocando um operador entre $a$ e $b$ e outro entre $b$ e $c$. Cada operador é escolhido independentemente entre $+$ e $*$, podendo os dois ser iguais, e é permitido usar parênteses. A ordem dos números não pode ser alterada.
