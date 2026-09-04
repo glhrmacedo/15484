@@ -8,7 +8,7 @@ int main()
     printf("Escreva os comprimentos dos lados a, b e c do triângulo: ");
     scanf("%d %d %d", &a, &b, &c);
 
-    if (!(a + b > c && a + c > b && b + c > a))
+    if (a + b <= c || a + c <= b || b + c <= a)
     {
         printf("Esses comprimentos não formam um triângulo.\n");
     }
