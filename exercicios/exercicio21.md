@@ -1,0 +1,1 @@
+Escreva um programa que, dados três inteiros positivos $m$, $n$ e $p$, determine o número mínimo de quadrados de lado $p$ necessários para cobrir inteiramente um retângulo $m \times n$. Os quadrados não podem ser cortados e seus lados devem ser paralelos aos lados do retângulo. A região coberta pode ultrapassar as bordas do retângulo.
