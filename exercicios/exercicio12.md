@@ -1,7 +1,7 @@
 Qual será a saída do programa abaixo?
 
 ```c
-    #include <stdio.h>
+    # include <stdio.h>
 
     int funcaol (int a)
     {
