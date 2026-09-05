@@ -1,0 +1,1 @@
+Escreva um programa que, dadas as coordenadas de dois pontos $P = (x_1, y_1)$ e $Q = (x_2, y_2)$ do plano cartesiano, calcule a distância entre eles dada por $\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.
