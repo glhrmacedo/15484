@@ -1,0 +1,1 @@
+Escreva um programa que, dados três números reais positivos $a$, $b$ e $c$ tais que $a < b + c$, $b < a + c$ e $c < a + b$, calcule a área do triângulo cujos lados têm esses comprimentos pela fórmula de Heron $\sqrt{s(s-a)(s-b)(s-c)}$, em que $s = \frac{a+b+c}{2}$ é o semiperímetro do triângulo.
