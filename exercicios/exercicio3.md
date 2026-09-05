@@ -1,0 +1,1 @@
+Escreva um programa que, dado um número real positivo $x$, calcule o valor de $f(x) = \sqrt{x} + \frac{x}{2} + x^x$.
