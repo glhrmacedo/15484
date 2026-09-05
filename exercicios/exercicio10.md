@@ -1,0 +1,1 @@
+Escreva um programa que, dado um número inteiro positivo $n$, determine o $n$-ésimo termo $a_n$ da sequência $a_1 = 3, a_2 = 5, a_3 = 8, a_4 = 12, a_5 = 17, a_6 = 23, \dotsc$
