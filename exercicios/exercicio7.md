@@ -1,0 +1,1 @@
+Escreva um programa que, dados dois horários $H_1$ e $H_2$ do mesmo dia, cada um fornecido como dois números inteiros $h$ e $m$ com $0 \le h \le 23$ e $0 \le m \le 59$, e tais que $H_1 \le H_2$, calcule o número de minutos decorridos entre $H_1$ e $H_2$.
