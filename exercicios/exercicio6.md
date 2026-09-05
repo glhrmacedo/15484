@@ -1,0 +1,1 @@
+Escreva um programa que, dados três números reais $a$, $b$ e $c$ com $a \neq 0$ e $b^2 - 4ac > 0$, determine as duas raízes reais da equação do segundo grau $ax^2 + bx + c = 0$, dadas por $x = \frac{-b \pm \sqrt{\Delta}}{2a}$, em que $\Delta = b^2 - 4ac$.
