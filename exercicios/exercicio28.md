@@ -1,0 +1,1 @@
+Um número inteiro positivo $n$ é **perfeito** se for igual à soma de seus divisores positivos diferentes de $n$. Por exemplo, 6 é perfeito, pois $1 + 2 + 3 = 6$. Escreva um programa que, dado um número inteiro positivo $n$, verifique se ele é perfeito.
