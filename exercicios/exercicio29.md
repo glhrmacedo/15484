@@ -1,0 +1,1 @@
+Escreva um programa que, dado um número natural $n$, verifique se ele é um **palíndromo**. Um número natural é considerado um palíndromo quando a sequência de seus algarismos é a mesma quando lida da esquerda para a direita e da direita para a esquerda. Isso significa que o primeiro algarismo deve ser igual ao último, o segundo igual ao penúltimo, e assim por diante.
