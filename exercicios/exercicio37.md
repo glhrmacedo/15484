@@ -1,0 +1,5 @@
+Uma sequência de *n* números inteiros não nulos é dita piramidal *m*-alternante se é constituida por *m* segmentos: o primeiro com um elemento, o segundo com dois elementos e assim por diante até o *m*-ésimo, com *m* elementos. Além disso, os elementos de um mesmo segmento deve ser todos pares ou todos ímpares e para cada segmento, se seus elementos forem todos pares, os elementos do segmento seguinte deve ser todos ímpares.
+
+**(a)** Escreva uma função `bloco` que recebe como parâmetro um inteiro *n* e lê *n* números inteiros do teclado, retornando um dos seguintes valores: 0, se os *n* números lidos forem pares, 1 se os *n* números lidos forem ímpares e −1 se entre os *n* números lidos há números com paridades diferentes.
+
+**(b)** Usando a função do item anterior, escreva um programa que, dados um inteiro *n* > 1 e uma sequência de *n* números inteiros, verifica se ela é piramidal *m*-alternante. O programa deve imprimir o valor de *m* ou dar a resposta `não`.
