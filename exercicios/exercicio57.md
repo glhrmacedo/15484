@@ -1,0 +1,1 @@
+Um subvetor *w* de um vetor *v* de *n* números inteiros é obtido ao remover alguns ou nenhum elemento de *v* sem alterar a ordem dos elementos restantes. Por exemplo, *w* = [12, 13, 10, 3] é um subvetor de *v* = [11, 12, 13, 11, 10, 9, 7, 3, 3], mas não é um subvetor de *v* = [11, 12, 10, 11, 13, 9, 7, 3, 3]. Escreva uma função que verifique se um vetor *w* é subvetor de *v*.
