@@ -1,0 +1,1 @@
+Um segmento de um vetor é chamado de constante se todos os seus elementos têm o mesmo valor. Escreva uma função que calcule o comprimento do maior segmento constante de um vetor *v* com *n* números inteiros.
